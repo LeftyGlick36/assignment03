@@ -85,7 +85,7 @@ public class BinarySearchSetTest {
 		testSet.clear();
 		testSet.addAll(testArrayList);
 		// Assert.assertEquals(11, testSet.size());
-		System.out.println(testSet.toArray());
+		//System.out.println(testSet.toArray());
 	}
 
 	@Test
